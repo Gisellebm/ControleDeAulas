@@ -1,4 +1,6 @@
-# Projeto React/Next.js: Aplicações Práticas de Map, Filter e Reduce
+# Projeto React/Next.js: Aplicações Práticas de Map, Filter e Reduce feito a partir da aula da Cod3r
+
+Link da aula: https://www.youtube.com/watch?v=nEI9GsvqGmU
 
 ## Visão Geral do Projeto
 
@@ -11,8 +13,8 @@ Para começar com este projeto, siga estas etapas:
 1. **Clone o repositório:**
 
     ```bash
-    git clone 
-    cd react-map-filter-reduce
+    git clone https://github.com/Gisellebm/ControleDeAulas
+    cd ControleDeAulas
     ```
 
 2. **Instale as dependências:**
